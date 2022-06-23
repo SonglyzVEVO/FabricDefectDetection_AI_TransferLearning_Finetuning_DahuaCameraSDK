@@ -1,0 +1,1 @@
+# FabricDefectDetection_AI_method
