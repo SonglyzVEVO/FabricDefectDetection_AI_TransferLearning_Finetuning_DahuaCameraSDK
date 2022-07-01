@@ -1,1 +1,2 @@
-# FabricDefectDetection_AI_method
+FabricDefectDetection_AI_method
+Textile industrials in Thailand have a total value proportion of approximately 2.2 % from all products, that significant for Thailand's economy, and most factories are mass production. We are therefore interested and aware of the benefits of replacing automation in the fabric inspection process which was originally used humans for inspection and often have an error, causing fabric in the manufacturing process left with defects. This research designed and search for making fabric defect detecting systems. The goal of this research is to make an accurate defection system.
